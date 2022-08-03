@@ -1,5 +1,6 @@
 <h1 align="left">🪐 Sou Tambu Jenny</h1>
-<h4 align="center">O meu mundo, a minha paixão. Estou deixando você me conhecer, e por que não me puxar para um papo 😍. Será um prazer partilharmos conhecimento desse mundo que nos uni.</h4>
+<h4 align="left">O meu mundo, a minha paixão. Estou deixando você me conhecer, e por que não me puxar para um papo 😍. <br> Será um prazer partilharmos conhecimento desse mundo que nos uni.</h4>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tambujenny&label=Profile%20views&color=0e75b6&style=flat" alt="tambujenny" /> </p>
 
